@@ -1,0 +1,17 @@
+{
+  "name": "rta-node",
+  "version": "1.0.0",
+  "description": "Simple real time app w/ Node.js, Express and Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["real time app", "socket.io"],
+  "author": "Todor Nikolov",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}

@@ -6,7 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["real time app", "socket.io"],
+  "keywords": [
+    "real time app",
+    "socket.io"
+  ],
   "author": "Todor Nikolov",
   "license": "ISC",
   "dependencies": {
